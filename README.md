@@ -1,8 +1,8 @@
 #  Wall street stock market analystics
-![stock-market-ticker-shows-gains-losses-day-](https://user-images.githubusercontent.com/113273722/207961828-a89cf34b-8bd1-49fc-bad6-00bf254b5c47.jpg)
-
-
 I will use VBA scripting to analyze generated stock market data .
+
+![stock-market-ticker-shows-gains-losses-day-](https://user-images.githubusercontent.com/113273722/207962197-f1a60589-53c0-46bc-b6f3-7e1cddb2af31.jpg)
+
 
 # Instructions :
 
